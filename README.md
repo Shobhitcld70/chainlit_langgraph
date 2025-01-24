@@ -150,7 +150,7 @@ Found in `resume_optimizer.py`, this workflow helps users improve their resumes:
 ### [Lean Canvas Chat](./chat_workflow/workflows/lean_canvas_chat.py)
 Implemented in `lean_canvas_chat.py`, this workflow assists in business modeling:
 - Guides users through the Lean Canvas creation process
-- Offers a structured approach to defining business models
+- Offers a structured approach to defining business model
 
 Each workflow demonstrates different aspects of the Chainlit Langgraph integration, showcasing its flexibility and power in creating AI-driven applications.
 
